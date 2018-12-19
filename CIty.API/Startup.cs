@@ -28,6 +28,7 @@ namespace CIty.API
             } else {
                 app.UseExceptionHandler();
             }
+            app.UseStatusCodePages(); // to show the result in the browser
             app.UseMvc();
 
             // app.Run(async (context) =>

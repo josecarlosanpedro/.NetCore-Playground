@@ -1,0 +1,11 @@
+C:\Users\Carlo-Ubidy\Documents\PlayGround\.NetCore-Playgound\CIty.API\obj\Debug\netcoreapp2.0\CIty.API.csprojAssemblyReference.cache
+C:\Users\Carlo-Ubidy\Documents\PlayGround\.NetCore-Playgound\CIty.API\obj\Debug\netcoreapp2.0\CIty.API.csproj.CoreCompileInputs.cache
+C:\Users\Carlo-Ubidy\Documents\PlayGround\.NetCore-Playgound\CIty.API\obj\Debug\netcoreapp2.0\CIty.API.AssemblyInfoInputs.cache
+C:\Users\Carlo-Ubidy\Documents\PlayGround\.NetCore-Playgound\CIty.API\obj\Debug\netcoreapp2.0\CIty.API.AssemblyInfo.cs
+C:\Users\Carlo-Ubidy\Documents\PlayGround\.NetCore-Playgound\CIty.API\bin\Debug\netcoreapp2.0\CIty.API.deps.json
+C:\Users\Carlo-Ubidy\Documents\PlayGround\.NetCore-Playgound\CIty.API\bin\Debug\netcoreapp2.0\CIty.API.runtimeconfig.json
+C:\Users\Carlo-Ubidy\Documents\PlayGround\.NetCore-Playgound\CIty.API\bin\Debug\netcoreapp2.0\CIty.API.runtimeconfig.dev.json
+C:\Users\Carlo-Ubidy\Documents\PlayGround\.NetCore-Playgound\CIty.API\bin\Debug\netcoreapp2.0\CIty.API.dll
+C:\Users\Carlo-Ubidy\Documents\PlayGround\.NetCore-Playgound\CIty.API\bin\Debug\netcoreapp2.0\CIty.API.pdb
+C:\Users\Carlo-Ubidy\Documents\PlayGround\.NetCore-Playgound\CIty.API\obj\Debug\netcoreapp2.0\CIty.API.dll
+C:\Users\Carlo-Ubidy\Documents\PlayGround\.NetCore-Playgound\CIty.API\obj\Debug\netcoreapp2.0\CIty.API.pdb
